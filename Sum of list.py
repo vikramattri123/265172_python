@@ -18,3 +18,8 @@ for x in list1:
 
 print("Smallest No :",t)
 print("Largest No: ",k)
+
+#list sort
+list1=[33,21,44,1,2,55,48,989]
+list1.sort()
+print(list1)
