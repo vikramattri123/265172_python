@@ -1,6 +1,6 @@
 def prime(x):
     flag=0
-    for i in range(1,x):
+    for i in range(2,x):
         if x%i == 0:
             flag=flag+1
     if flag == 0:
